@@ -1,3 +1,7 @@
+### CUSTOM ###
+application-local.yml
+src/main/java/cn/lwy88098/aiagentdemo/demo/invoke/TestApiKey.java
+
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
